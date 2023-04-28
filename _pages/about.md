@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han Li, PhD Student of Computer Science"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

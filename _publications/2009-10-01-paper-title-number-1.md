@@ -7,5 +7,5 @@ paperurl: 'http://academicpages.github.io/files/2023-10-03-PredicT-COVID-Spead-M
 ---
 In IEEE International Conference on Big Data Analytics, 2024.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/2023-10-03-PredicT-COVID-Spead-ML.pdf.pdf)
 

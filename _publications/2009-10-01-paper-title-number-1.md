@@ -1,5 +1,5 @@
 ---
-title: "redicting COVID-19 Transmission in Southern Cali-
+title: "Predicting COVID-19 Transmission in Southern Cali-
 fornia with Machine Learning Methods"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1

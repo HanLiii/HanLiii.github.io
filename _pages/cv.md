@@ -14,4 +14,4 @@ Education
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2022
 * Ph.D. in Computer Science and Engineering, University of California, Riverside, starting from Fall 2022
 
-[Download my CV here](files/HanLi_Resume_Oct24.pdf)
+[Download my CV here]([files/HanLi_Resume_Oct24.pdf](https://github.com/HanLiii/HanLiii.github.io/blob/master/files/HanLi_Resume_Oct24.pdf))

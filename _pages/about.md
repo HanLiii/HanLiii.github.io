@@ -14,7 +14,6 @@ I am passionate about machine learning, with spanning research areas such as Com
 
 Here is my CV for more details on my academic and professional journey:
 
-#<iframe src="https://github.com/HanLiii/HanLiii.github.io/raw/master/files/HanLi_Resume_Oct24.pdf" style="width:100%; height:500px;" #frameborder="0"></iframe>
 [Download my CV here](https://github.com/HanLiii/HanLiii.github.io/raw/master/files/HanLi_Resume_Oct24.pdf)
 
 

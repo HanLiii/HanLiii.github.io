@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a computer science Ph.D. student at the University of California, Riverside.
+Welcome! I am a CS PhD student at the University of California, Riverside.
 
-I am passionate about machine learning, with spanning research areas such as Computer Vision, Stable Diffusion Models, Graph Neural Networks,  Mathematics, and others. This personal website showcases my work and interests.
-
-
+I am passionate about machine learning, with spanning research areas such as Computer Vision and Generative AI. 
 
 

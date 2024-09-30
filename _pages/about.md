@@ -17,10 +17,7 @@ Here is my CV for more details on my academic and professional journey:
 [Download my CV here](https://github.com/HanLiii/HanLiii.github.io/raw/master/files/HanLi_Resume_Oct24.pdf)
 
 ---
-permalink: /
 title: "Publications"
-excerpt: "Publications"
 
 ---
-
 

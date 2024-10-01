@@ -16,8 +16,8 @@ Here is my [CV](https://github.com/HanLiii/HanLiii.github.io/raw/master/files/Ha
 
 Publications
 ======
-* **Xinru Qiu, Han Li, Greg Ver Steeg, and Adam Godzik**, "Advances in AI for Protein Structure Prediction: Implications for Cancer Drug Discovery and Development," in *Biomolecules*, 2024.
+* Xinru Qiu, **Han Li**, Greg Ver Steeg, and Adam Godzik, "Advances in AI for Protein Structure Prediction: Implications for Cancer Drug Discovery and Development," in *Biomolecules*, 2024.
 
-* **Xianghao Kong, Ollie Liu, Han Li, D Yogatama, and Greg Ver Steeg**, "Interpretable Diffusion via Information Decomposition," in *International Conference on Learning Representations*, 2024.
+* Xianghao Kong, Ollie Liu, **Han Li**, D Yogatama, and Greg Ver Steeg, "Interpretable Diffusion via Information Decomposition," in *International Conference on Learning Representations*, 2024.
 
-* **Han Li, Ran Wei, Wenyu Wang, and Nanpeng Yu**, "Predicting COVID-19 Transmission in Southern California with Machine Learning Methods," in *IEEE International Conference on Big Data Analytics*, 2024.
+* **Han Li**, Ran Wei, Wenyu Wang, and Nanpeng Yu, "Predicting COVID-19 Transmission in Southern California with Machine Learning Methods," in *IEEE International Conference on Big Data Analytics*, 2024.

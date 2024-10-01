@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate at the college of computer science and engineering in University of California Riverside, working with [Professor. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv).
+Welcome! I am a PhD Candidate at the college of computer science and engineering in University of California Riverside, working with Prof.[Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv).
 
 I am passionate about machine learning, with research spanning areas such as Computer Vision and Generative AI.
 
